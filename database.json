@@ -1,0 +1,11 @@
+{
+    "jaratok": [
+        {"id":1, "hova": "Párizs", "indulas": "9:00", "terminal": "2b"},
+        {"id":2, "hova": "London", "indulas": "9:10", "terminal": "2a"},
+        {"id":3, "hova": "Párizs", "indulas": "9:20", "terminal": "2b"},
+        {"id":4, "hova": "Frakfurt", "indulas": "9:30", "terminal": "2a"},
+        {"id":5, "hova": "Dublin", "indulas": "9:40", "terminal": "2b"},
+        {"id":6, "hova": "London", "indulas": "9:50", "terminal": "2a"},
+        {"id":7, "hova": "Róma", "indulas": "11:00", "terminal": "2b"}
+    ]
+}
